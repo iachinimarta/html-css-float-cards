@@ -50,6 +50,7 @@ p {
 
 .nome {
     font-weight: bold;
+    padding-bottom: 3px;
 }
 
 .email {
@@ -58,6 +59,7 @@ p {
 
 .ruolo, .email {
     font-size: small;
+    padding: 3px;
 }
 
 .clearfix::after {
