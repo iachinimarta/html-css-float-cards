@@ -20,4 +20,44 @@ h1 {
 
 p {
     text-align: center;
+    margin-bottom: 40px;
 }
+
+.card {
+    width: 350px;
+    height: 100px;
+    background-color: black;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    color: white;
+    box-shadow: -5px 5px 5px lightgrey;
+}
+
+.info {
+    padding: 20px 0;
+}
+
+.foto {
+    height: 100%;
+    float: left;
+    margin-right: 10px;
+}
+
+.nome {
+    font-weight: bold;
+}
+
+.email {
+    color: rgb(145, 192, 239);
+}
+
+.ruolo, .email {
+    font-size: small;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
