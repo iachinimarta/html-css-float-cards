@@ -23,12 +23,16 @@ p {
     margin-bottom: 40px;
 }
 
+.container {
+    margin-left: 40px;
+}
+
 .card {
     width: 350px;
     height: 100px;
     background-color: black;
     float: left;
-    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: 30px;
     color: white;
     box-shadow: -5px 5px 5px lightgrey;
