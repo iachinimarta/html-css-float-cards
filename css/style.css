@@ -3,3 +3,21 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.struttura {
+    background-color: white;
+    max-width: 1170px;
+    margin: auto;
+    font-family: 'Rubik', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #e53170;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    text-align: center;
+}
